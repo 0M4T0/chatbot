@@ -1,0 +1,8 @@
+from PyQt5.QtWidgets import QPixmap
+
+txt_title = 'ChatBot'
+win_x, win_y = 200, 100
+win_width, win_height = 1000, 600
+
+logo = QPixmap('aiphoto.png')
+name = "Nebula"
